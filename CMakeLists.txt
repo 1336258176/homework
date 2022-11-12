@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.6)
+find_package(OpenCV REQUIRED)
+project(HELLO)
+add_executable(hello main.cpp)
+target_link_libraries(hello ${OpenCV_LIBS})

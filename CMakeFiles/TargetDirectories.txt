@@ -1,0 +1,3 @@
+/home/lybin/homework/CMakeFiles/rebuild_cache.dir
+/home/lybin/homework/CMakeFiles/edit_cache.dir
+/home/lybin/homework/CMakeFiles/hello.dir
